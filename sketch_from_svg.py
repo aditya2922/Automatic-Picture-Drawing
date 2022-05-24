@@ -96,5 +96,5 @@ class sketch_from_svg:
             tu.done()
 
 
-pen = sketch_from_svg('C:/Users/ASUS/Downloads/test.svg', scale=80)
+pen = sketch_from_svg('automatic_drawing/test.svg', scale=80)
 pen.draw()
