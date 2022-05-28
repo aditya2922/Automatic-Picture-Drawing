@@ -5,7 +5,7 @@ from svg.path import parse_path
 from tqdm import tqdm
 
 
-class cutipieee1:
+class sih1:
 
     def __init__(self, path, scale=30, x_offset=400, y_offset=400):
 
@@ -96,5 +96,5 @@ class cutipieee1:
             tu.done()
 
 
-pen = cutipieee1('../automatic_detector/tesst.svg', scale=80)
+pen = sih1('../automatic_detector/tesst.svg', scale=80)
 pen.draw()
