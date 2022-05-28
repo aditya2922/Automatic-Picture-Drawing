@@ -96,5 +96,5 @@ class cutipieee:
             tu.done()
 
 
-pen = cutipieee('../automatic_drawing/test.svg', scale=80)
+pen = cutipieee('../automatic_detector/test.svg', scale=80)
 pen.draw()
