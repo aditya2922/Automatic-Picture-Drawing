@@ -7,7 +7,7 @@ This project utilizes Python's `turtle` module and `svgpathtools` library to aut
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/automatic-picture-drawing.git
+   git clone https://github.com/aditya2922/automatic-picture-drawing.git
    ```
 
 2. Replace the existing SVG file (test.svg) in the project directory with your own SVG image.
