@@ -5,7 +5,7 @@ from svg.path import parse_path
 from tqdm import tqdm
 
 
-class sih:
+class draw_picture:
 
     def __init__(self, path, scale=30, x_offset=400, y_offset=400):
 
@@ -96,5 +96,5 @@ class sih:
             tu.done()
 
 
-pen = sih('../automatic_detector/test.svg', scale=80)
+pen = draw_picture('../Automatic-Picture-Drawing/test.svg', scale=80)
 pen.draw()
