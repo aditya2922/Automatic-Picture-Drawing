@@ -31,7 +31,7 @@ This project utilizes Python's `turtle` module and `svgpathtools` library to aut
 ## Example
 
 ```python
-pen = sih('path/to/your/image.svg', scale=80)
+pen = draw_picture('path/to/your/image.svg', scale=80)
 pen.draw()
 ```
 
